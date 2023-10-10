@@ -2,8 +2,7 @@
 
 ## Prepare
 1. pip install -r requirements.txt
-2. Download the model from XXX.
-
+2. Download the model from Baidu NetDisk: https://pan.baidu.com/s/1idd7O05C2tpvtniTIh_yOQ   Password:ztby
 ## Extract the entity and relation
 1. prepare the data in a json file, which is a list with sentences. Below is an example.
 
